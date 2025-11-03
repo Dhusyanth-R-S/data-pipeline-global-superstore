@@ -22,6 +22,8 @@ Global Superstore's data spans over 50,000 records, initially contained within a
 <img width="469" height="467" alt="Star Schema Image Pipeline" src="https://github.com/user-attachments/assets/5a300558-1170-4d25-a047-2e472d3a89b2" />
 
 
+
+
 Tools and Purpose of the project :
 
 Project Pipeline Breakdown by Tool
@@ -70,6 +72,7 @@ Recommendation: Limit 'Same Day Delivery' availability exclusively to high-densi
 <img width="545" height="190" alt="Screenshot 2025-11-03 165424" src="https://github.com/user-attachments/assets/3fd954bd-f1cd-444d-a12a-85447f0abc78" />
 
 
+
 2. Sales Masking Profit
 
 Insight: Despite leading the market in sales volume, the 'Furniture' category generates less than half the profit margin of the 'Office Supplies' category. High revenue is aggressively masking underlying profitability issues.
@@ -84,6 +87,7 @@ Recommendation: This highlights the critical need for continuous, granular margi
 <img width="671" height="224" alt="Screenshot 2025-11-03 165547" src="https://github.com/user-attachments/assets/daffa732-ae92-41f3-8a87-b3a3def515d7" />
 
 
+
 4. Strategic Regional Investment
 
 Insight: Investment initiatives outside capital cities are yielding exceptional results. For example, the city of Hamburg drives 150% more profit than Berlin, despite generating only 65% of Berlin's sales amount, indicating superior operational efficiency and pricing outside the main hub.
@@ -92,6 +96,7 @@ Recommendation: Double down on investment and logistical support in these highly
 
 
 <img width="1186" height="462" alt="Screenshot 2025-11-03 165709" src="https://github.com/user-attachments/assets/c0d17d19-8ed7-4b11-9904-a50240679b18" />
+
 
 
 
@@ -105,6 +110,7 @@ Recommendation: A formal Customer Loyalty Program should be established to recog
 
 
 <img width="477" height="560" alt="Screenshot 2025-11-03 165815" src="https://github.com/user-attachments/assets/e2827099-8d67-49db-bbd0-42ad3f74823c" />
+
 
 
 
