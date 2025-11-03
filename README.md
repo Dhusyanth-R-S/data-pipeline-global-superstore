@@ -24,7 +24,6 @@ Global Superstore's data spans over 50,000 records, initially contained within a
 
 Tools and Purpose of the project :
 
-
 Project Pipeline Breakdown by Tool
 
 1. Python (Pandas)
@@ -68,7 +67,8 @@ Insight: Approximately 13% of the company's total profit is consumed by shipping
 
 Recommendation: Limit 'Same Day Delivery' availability exclusively to high-density locations where cost-to-deliver is verifiably lower, preserving crucial profit margins.
 
-[powerbi image same day delivery option drill]
+<img width="545" height="190" alt="Screenshot 2025-11-03 165424" src="https://github.com/user-attachments/assets/3fd954bd-f1cd-444d-a12a-85447f0abc78" />
+
 
 2. Sales Masking Profit
 
@@ -81,7 +81,7 @@ Insight: Even the successful 'Technology' category leads the company's sales and
 Recommendation: This highlights the critical need for continuous, granular margin analysis to immediately flag and address severely underperforming SKUs.
 
 
-[Image of the 'technology' category worst products]
+<img width="671" height="224" alt="Screenshot 2025-11-03 165547" src="https://github.com/user-attachments/assets/daffa732-ae92-41f3-8a87-b3a3def515d7" />
 
 
 4. Strategic Regional Investment
@@ -91,7 +91,8 @@ Insight: Investment initiatives outside capital cities are yielding exceptional 
 Recommendation: Double down on investment and logistical support in these highly efficient, second-tier cities to sustain hyper-profitable growth.
 
 
-[Image of Germany's profit driving cities ] 
+<img width="1186" height="462" alt="Screenshot 2025-11-03 165709" src="https://github.com/user-attachments/assets/c0d17d19-8ed7-4b11-9904-a50240679b18" />
+
 
 
 5. Global Sales Trend & Customer Loyalty
@@ -103,7 +104,8 @@ Customer Loyalty: A select group of customers contribute a vital, marginal amoun
 Recommendation: A formal Customer Loyalty Program should be established to recognize and incentivize these top global patrons.
 
 
-[Image of top 10 customers ]
+<img width="477" height="560" alt="Screenshot 2025-11-03 165815" src="https://github.com/user-attachments/assets/e2827099-8d67-49db-bbd0-42ad3f74823c" />
+
 
 
 The interactive PowerBI dashboard with much more details in depth can be downloaded here .[link]
@@ -111,9 +113,8 @@ The interactive PowerBI dashboard with much more details in depth can be downloa
 
 
 Apart from this, 13 effective business reports has been done using SQL (MySQL)
-	
 	These queries performs perfect business analysis and get us know what is happening beyond simple analysis
-
+	
 1. Product Profitability Ranking:
 	 Top 10 Products: Sales vs. Profit Margin Rank
 
@@ -163,6 +164,10 @@ The SQL table set up (Data Integrety ) can be found downloaded [here]
 The file of 13 Business queries can be downloaded [here]
 
 The interactive Dashboard with complete story can be downloaded [here]
+
+
+
+
 
 
 
